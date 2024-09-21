@@ -1,8 +1,0 @@
-:stem:latexmath
-
-stem:[sqrt(4) = 2]
-
-[stem]
-++++
-a^2
-++++
