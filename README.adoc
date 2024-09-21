@@ -1,2 +1,3 @@
-#Hello
-exo1
+# Hello Luc :)
+
+link:pages/exo1.adoc[exo #1]
