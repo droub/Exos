@@ -1,5 +1,5 @@
 # Hello Luc :)
 
-* link:Pages/exo1.md[exo #1] Trouve le nombre d'or
-* link:Pages/exo2.md[exo #2] Revise les droites
-* link:Pages/exo3.md[exo #3] Probleme des triangles rectangles AMB
+* link:Pages/Exo1.md[exo #1] Trouve le nombre d'or
+* link:Pages/Exo2.md[exo #2] Revise les droites
+* link:Pages/Exo3.md[exo #3] Probleme des triangles rectangles AMB
