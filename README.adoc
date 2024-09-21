@@ -1,3 +1,5 @@
 # Hello Luc :)
 
-link:pages/exo1.adoc[exo #1]
+* link:pages/exo1.md[exo #1] Trouve le nombre d'or
+* link:pages/exo2.md[exo #2] Revise les droites
+* link:pages/exo3.md[exo #3] Probleme des triangles rectangles AMB
