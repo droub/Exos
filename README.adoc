@@ -3,4 +3,4 @@
 * link:Pages/Exo1.md[exo #1] Trouve le nombre d'or
 * link:Pages/Exo2.md[exo #2] Révise les droites
 * link:Pages/Exo3.md[exo #3] Problème des triangles rectangles AMB
-* link:Pages/Exo4.md[exo #4] Entrainement sur les équations du 2eme degrés
+* link:Pages/Exo4.md[exo #4] Entrainement sur les équations du 2eme degré
