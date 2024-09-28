@@ -1,4 +1,4 @@
-# Rappe sur les droites
+# Rappel sur les droites
 
 Toutes les droites du plan (sauf les verticales) suivent une equation du 1er ordre:
 ```math
