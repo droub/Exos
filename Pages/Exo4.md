@@ -25,7 +25,7 @@ Si elles existent, donne les valeurs de x qui vérifient les équations suivante
    x^2-2x+1=0
    ```
 1. ```math
-   xˆ2 = x^2+10
+   x^2 = x^2+10
    ```
 1. ```math
    2x^2+14x-60=0
