@@ -6,7 +6,7 @@ Donne la forme factorisée des fonctions suivantes:
    f(x)=36x^2+84x+49
    ```
 1. ```math
-   g(x)=100xˆ2-16
+   g(x)=100x^2-16
    ```
 1. ```math
    h(x)=(2x+1)(3x-4)
