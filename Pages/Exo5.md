@@ -1,4 +1,4 @@
-# Probleme 1
+# Problème 1
 
 Soient les points du plan: A(-4;3) B(2;2) C(-3;0) D(5;0) E(1;16)
 
@@ -6,7 +6,7 @@ Soient les points du plan: A(-4;3) B(2;2) C(-3;0) D(5;0) E(1;16)
 * b) Trouver l'équation de la parabole P qui passe par C,D et E.
 * c) Trouver l'ensemble des abscisses pour lesquelles la parabole est au-dessus de la droite. 
 
-# Probleme 2
+# Problème 2
 
 Pour les fonctions suivantes, écrire un tableau incluant les passages á zero et le sens de variation.
 
@@ -44,10 +44,10 @@ Résourdre les inégalites suivantes:
 \frac{6x-1}{4x-1} \gt \frac{9x-1}{6x-1}
 ```
 
-# Probleme 4
+# Problème 4
 
-On considere la procédure suivante:
-* On demarre avec un carre vide de surface 1x1
+On considère la procédure suivante:
+* On démarre avec un carré vide de surface 1x1
 * On partage la surface vide en deux, et on achure une des 2 moitiés.
 * On recommence en boucle le partage/hachurage de la zone non hachurée.
 
@@ -57,9 +57,9 @@ Questions:
  2) Quel est le sens de variation de cette suite?
  3) Vers quelle valeur semble ( graphiquement ) tendre l'aire hachurée lorsqu'on reboucle la procédure de nombreuses fois?
 
-# Probleme 5
+# Problème 5
 
-Quel est le sens de varaition des suites suivantes:
+Quel est le sens de variation des suites suivantes ? Il faut essayer de répondre tres vite du tac au tac.
 
 ```math
 u_{n} = 47n-3
