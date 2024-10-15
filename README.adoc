@@ -4,3 +4,4 @@
 * link:Pages/Exo2.md[exo #2] Révise les droites
 * link:Pages/Exo3.md[exo #3] Problème des triangles rectangles AMB
 * link:Pages/Exo4.md[exo #4] Entrainement sur les équations du 2eme degré
+* link:Pages/Exo5.md[exo #5] Inégalités et études de fonctions
