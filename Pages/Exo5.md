@@ -44,3 +44,48 @@ Résourdre les inégalites suivantes:
 \frac{6x-1}{4x-1} \gt \frac{9x-1}{6x-1}
 ```
 
+# Probleme 4
+
+On considere la procédure suivante:
+* On demarre avec un carre vide de surface 1x1
+* On partage la surface vide en deux, et on achure une des 2 moitiés.
+* On recommence en boucle le partage/hachurage de la zone non hachurée.
+
+Questions: 
+
+ 1) Ecrire une suite récurrente qui décrit la quantité de surface hachurée.
+ 2) Quel est le sens de variation de cette suite?
+ 3) Vers quelle valeur semble tendre l'aire hachurée lorsqu'on reboucle la procédure de nombreuses fois?
+
+# Probleme 5
+
+Quel est le sens de varaition des suites suivantes:
+
+```math
+u_{n} = 47n-3
+```
+```math
+u_{n} = -47n+3
+```
+```math
+u_{n} = 47n+3
+```
+```math
+u_0 = 1.21, u_{n+1} = u_{n}.u_0
+```
+```math
+u_0 = 0.99, u_{n+1} = u_n.u_0
+```
+```math
+u_0 = \alpha, u_{n+1} = u_n+u_0^2
+```
+```math
+u_0 = \sqrt{\alpha}, u_{n+1} = u_n-\pi.u_0
+```
+```math
+u_{n} = n^2-\pi^2
+```
+
+
+
+
