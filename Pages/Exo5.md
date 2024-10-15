@@ -55,7 +55,7 @@ Questions:
 
  1) Ecrire une suite récurrente qui décrit la quantité de surface hachurée.
  2) Quel est le sens de variation de cette suite?
- 3) Vers quelle valeur semble tendre l'aire hachurée lorsqu'on reboucle la procédure de nombreuses fois?
+ 3) Vers quelle valeur semble ( graphiquement ) tendre l'aire hachurée lorsqu'on reboucle la procédure de nombreuses fois?
 
 # Probleme 5
 
