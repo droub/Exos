@@ -6,3 +6,4 @@
 * link:Pages/Exo4.md[exo #4] Entrainement sur les équations du 2eme degré
 * link:Pages/Exo5.md[exo #5] Inégalités, études de fonctions et suites
 * link:Pages/Exo6.md[exo #6] Probas
+* link:Pages/Exo7.md[exo #7] Partir à la dérive
