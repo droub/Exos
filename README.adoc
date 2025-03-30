@@ -8,3 +8,4 @@
 * link:Pages/Exo6.md[exo #6] Probas
 * link:Pages/Exo7.md[exo #7] Partir à la dérive
 * link:Pages/Exo8.md[exo #8] Trigo
+* link:Pages/Exo8.md[exo #9] Produit scalaire
