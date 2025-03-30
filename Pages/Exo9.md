@@ -45,3 +45,15 @@ Soit le triangle equilateral ABC et son orthocentre H (i.e.  l'intersection des 
 ```
 
 3.2) Exprimer ce resulat en fonction de _a_, la longueur du cote du triangle.
+
+----
+
+## Probleme 4
+
+Soit un triangle dont les cotes font: AB=5, AC=6 et BC=9.
+
+4.1) Quel theoreme faut-il utiliser pour calculer l'angle BAC ?
+
+4.2) Calculer l'angle
+
+
