@@ -30,7 +30,7 @@ A=(1;6) \quad B=(10;10) \quad et \quad C=(9;2)
 \vec{IA}.\vec{IB}
 ```
 
-2.3) B est-il sur la mediatrice de [AB] ? ABC est-il isocele en B ?
+2.3) B est-il sur la mediatrice de [AC] ? ABC est-il isocele en B ?
 
 ----
 
