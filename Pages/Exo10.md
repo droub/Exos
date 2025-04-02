@@ -1,6 +1,6 @@
 # Probleme 1
 
-Pour chacun des vecteurs suivants: $`\vec{a}(40;40)\quad,\quad \vec{b}(3;0),\quad{c}(0;-12)`$
+Pour chacun des vecteurs suivants: $`\vec{a}(40;40)\quad,\quad \vec{b}(3;0),\quad\vec{c}(0;-12)`$
 
 Proposer: 
 
