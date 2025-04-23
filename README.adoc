@@ -10,4 +10,4 @@
 * link:Pages/Exo8.md[exo #8] Trigo
 * link:Pages/Exo9.md[exo #9] Produit scalaire
 * link:Pages/Exo10.md[exo #10] Encore du Produit scalaire
-* link:Pages/Exo11.md[exo #10] Fonction Exponentielle 
+* link:Pages/Exo11.md[exo #11] Fonction Exponentielle 
