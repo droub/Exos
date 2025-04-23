@@ -10,5 +10,5 @@ Quelles sont les dérivées des fonctions suivantes:
 # Probleme 2
 
 Soit la fonction : $`f(x)= (2x+k)e^{-4x+1}`$
-1. Quelle est l'équation de la droite T tangente à $`f(x)`$ en $`x=\frac{-1}{4}`$
+1. Quelle est l'équation de la droite T tangente à $`f(x)`$ en $`x=\frac{1}{4}`$
 2. Est-ce que T peut couper l'axe des abscisses quel que soit $`k`$ ?
