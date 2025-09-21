@@ -13,3 +13,4 @@
 * link:Pages/Exo11.md[exo #11] Fonction Exponentielle 
 * link:Pages/Exo12.md[exo #12] On maintient la forme !
 * link:Pages/Exo13.md[exo #13] Question de hasard !
+* link:Pages/Exo14.md[exo #13] Derivees... on passe la seconde !
