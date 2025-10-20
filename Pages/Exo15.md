@@ -11,7 +11,7 @@ Par exemple...
 
 ## Formule binomiale
 
-On note n factoriel $n!$ la quatite $n*(n-1)*...*1$
+On note n factoriel $n!$ la quatite $n*(n-1)*(n-2)...*1$
 
 Le coefficient binomial p parmi n  est $\binom{n}{p} = \frac{n!}{p!(n-p)!}$
 
