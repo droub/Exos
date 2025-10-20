@@ -5,15 +5,15 @@ nombre de sous-ensembles possibles de p éléments
 est donné par le coefficient binomial p parmi n $\binom{n}{p}$.
 
 Par exemple... 
- * Dans l'ensemble E = { a,b,c,d }
- * Il existe 6 paires: ab, ac, ad, bc, bd, cd ( on considere que ba = ab )
+ * Dans l'ensemble E = { a,b,c,d } c'est-a-dire n=4
+ * Si on compte les paires (p=2), il y en a 6: ab, ac, ad, bc, bd, cd ( on considere que ba = ab )
  * Donc $\binom{4}{2}=6$
 
 ## Formule binomiale
 
 On note n factoriel $n!$ la quatite $n*(n-1)*...*1$
 
-Le coefficient binomial p parmi n  est $\binom{n}{k} = \frac{n!}{p!(n-p)!}$
+Le coefficient binomial p parmi n  est $\binom{n}{p} = \frac{n!}{p!(n-p)!}$
 
 ### Verification
 
